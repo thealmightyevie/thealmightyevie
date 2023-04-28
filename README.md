@@ -10,6 +10,7 @@ I occassionally self-educate using resources such as [The Odin Project](https://
 
 ## Currently Working On
 * [Food Waste App](https://github.com/QUT-CAB302-Software-Development/android-application-project-jades) - a group collaboration of an android application designed to help minimize food waste. Users can add food from their kitchen and track how long until it expires. The app provides recipe and alternative use suggestions.
+* Uni grades manager - currently private; a personal project started in 2021 that records the grades of each assignment of each unit I've studied at QUT since the beginning of my degree.
 
 ## Statistics
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=thealmightyevie&show_icons=true)
